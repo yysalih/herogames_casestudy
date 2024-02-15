@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120766633094",
+    "project_id": "hero-games-case-study",
+    "storage_bucket": "hero-games-case-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120766633094:android:fb8f8c232eb111e77e6d07",
+        "android_client_info": {
+          "package_name": "com.herogames.casestudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikP31FsF6yXCRst2aLe33JCbWP8b67bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCnkR0RWH06ilBMW5uaG_5KG-1yd5-YqqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>120766633094</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.herogames.casestudy</string>
+	<key>PROJECT_ID</key>
+	<string>hero-games-case-study</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hero-games-case-study.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:120766633094:ios:14c2d5af59a96fd27e6d07</string>
+</dict>
+</plist>
